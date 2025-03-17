@@ -20,7 +20,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 ## Calendario 
 
-<details open>
+<details>
 <summary>Capítulo 0: Introducción</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -29,12 +29,12 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 13/03 | Ayudantía |
 </details>
 
-<details>
+<details open>
 <summary>Capítulo 1: Fundamentos </summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 17/03  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - Ticket |
+| Cátedra     | Lunes 17/03  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - [Ticket](https://forms.gle/Y4tawmR2ijPa9sjM6) |
 </details>
 
 
